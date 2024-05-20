@@ -1,0 +1,8 @@
+﻿  Triangle.cpp
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L9\Triangle\Triangle.cpp(18,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L9\Triangle\Triangle.cpp(19,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L9\Triangle\Triangle.cpp(20,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L9\Triangle\Triangle.cpp(40,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L9\Triangle\Triangle.cpp(40,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L9\Triangle\Triangle.cpp(40,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Triangle.vcxproj -> C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L9\x64\Debug\Triangle.exe
