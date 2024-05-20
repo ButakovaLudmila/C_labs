@@ -1,0 +1,9 @@
+
+Ivanov Ivan has card N1 with access level:student-access and average_score 5
+
+
+Petrov Petr has card N2 with access level:student-access and average_score 4
+
+
+Butakova Ludmila has card N3 with access level:teacher-access and work_time is 40
+
