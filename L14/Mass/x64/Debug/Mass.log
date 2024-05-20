@@ -1,0 +1,11 @@
+﻿  Mass.cpp
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L14\Mass\Mass.cpp(20,19): warning C4838: conversion from '__int64' to 'long' requires a narrowing conversion
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L14\Mass\Mass.cpp(20,19): warning C4305: 'initializing': truncation from '__int64' to 'long'
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L14\Mass\Mass.cpp(20,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L14\Mass\Mass.cpp(20,33): warning C4838: conversion from '__int64' to 'long' requires a narrowing conversion
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L14\Mass\Mass.cpp(20,33): warning C4305: 'initializing': truncation from '__int64' to 'long'
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L14\Mass\Mass.cpp(20,33): warning C4309: 'initializing': truncation of constant value
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L14\Mass\Mass.cpp(20,48): warning C4838: conversion from '__int64' to 'long' requires a narrowing conversion
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L14\Mass\Mass.cpp(20,48): warning C4305: 'initializing': truncation from '__int64' to 'long'
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L14\Mass\Mass.cpp(20,48): warning C4309: 'initializing': truncation of constant value
+  Mass.vcxproj -> C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L14\x64\Debug\Mass.exe

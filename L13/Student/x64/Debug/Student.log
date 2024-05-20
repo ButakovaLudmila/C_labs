@@ -1,0 +1,3 @@
+﻿  Student.cpp
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L13\Student\student.h(17,29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Student.vcxproj -> C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L13\x64\Debug\Student.exe
